@@ -60,13 +60,15 @@ Machine Learning graduate student with hands-on experience in **time-series fore
 - **Applications**: Sequential optimization, strategy development, autonomous systems
 - **Highlights**: Complete DQN implementation with detailed exploration-exploitation analysis
 
-### 4. [Music Recommendation System](./04_Music_Recommendation_System/)
+### 4. [Music Recommendation System](./04_Music_Recommendation_System/) 🎵
 **Content-based recommendation engine using similarity metrics**
 
-- **Technologies**: Scikit-learn, Pandas, Cosine Similarity
-- **Key Features**: Feature engineering, similarity computation, recommendation algorithms
+🚀 **[Live Demo](https://cs5079-asmn3-deployments-foxtrot.streamlit.app/)** - Try it now!
+
+- **Technologies**: Scikit-learn, Pandas, Cosine Similarity, Streamlit
+- **Key Features**: Feature engineering, similarity computation, recommendation algorithms, web deployment
 - **Applications**: Personalization systems, content discovery
-- **Highlights**: Built scalable recommendation pipeline with comprehensive EDA
+- **Highlights**: Built scalable recommendation pipeline with comprehensive EDA and deployed as interactive web app
 
 ---
 

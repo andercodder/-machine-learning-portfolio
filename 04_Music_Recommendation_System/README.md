@@ -2,11 +2,15 @@
 
 **Course**: CS5079 – Applied Artificial Intelligence, University of Aberdeen (2025)
 
+🎵 **[Live Demo](https://cs5079-asmn3-deployments-foxtrot.streamlit.app/)** | Try the recommendation engine!
+
 ---
 
 ## 📋 Overview
 
 This project develops a content-based music recommendation system using similarity metrics and feature engineering. The system analyzes user listening patterns and song characteristics to generate personalized recommendations, demonstrating core machine learning techniques for recommendation engines.
+
+**🚀 Live Deployment**: The recommendation system is deployed as an interactive web application using Streamlit, allowing users to get real-time music recommendations.
 
 **Real-World Applications:**
 - **Personalization Systems**: Content discovery and user engagement
